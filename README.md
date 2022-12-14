@@ -1,6 +1,12 @@
 # Pràctica Kaggle APC UAB 2022-23
 ### Nom: Jhoe Gabriel Chirinos Sullcany ### DATASET: Mobile Price Classification
 ### URL: [Mobile Price Classification](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification)
+## Demo
+Hem de començar amb el notebook amb el que treballem el dataset complet, està remarcat al títol. Al acabar passem a l'altre notebook on fem un preprocessed diferent.
+## Fitxers  
+**Calcular Rang de Preus - dataset complet** : Notebook principal on tenim l'exploració i anàlisis del nostre dataset, on comentem tots els models i agreguem una conclussió al final. Començar per aquest fitxer.  
+**Calcular Rang de Preus - preprocessed amb treshold** : Fitxer on comparem els dos dataframes amb diferent preprocessat. Executar després de l'anterior notebook anomenat   
+**FuncionsUtilitzades** : Fitxer de funcions que utilitzem per visualitzar confusions matrix, curves ROC i PR.
 ## Resum
 Hem fet 2 tipus de preprocessats, en un utilitzem el dataset sencer i en l'altre utilitzem només un dataframe que dividim a través de fer un treshold amb la correlació dels atributs.
 Totes les dades que tenim són numeriques i tenim un total de 2000 files per 21 columnes.
