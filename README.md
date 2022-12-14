@@ -1,5 +1,6 @@
 # Pràctica Kaggle APC UAB 2022-23
-### Nom: Jhoe Gabriel Chirinos Sullcany ### DATASET: Mobile Price Classification
+### Nom: Jhoe Gabriel Chirinos Sullcany 
+### DATASET: Mobile Price Classification
 ### URL: [Mobile Price Classification](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification)
 ## Demo
 Hem de començar amb el notebook amb el que treballem el dataset complet, està remarcat al títol. Al acabar passem a l'altre notebook on fem un preprocessed diferent.
